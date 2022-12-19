@@ -7,10 +7,6 @@ PennKey: _______
 =: Core Concepts :=
 ===================
 
-- List the four core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
-
   1. 2D Arrays - it's better to represent data the way it appears to the user so it's easier to make changes. Therefore, I decided to store my buttons as a 2D array. 
 
   2. Collections - I used collections to store the front pictures of my "cards" since I wanted to shuffle them every time a user plays a game. Collections have a useful prebuilt feature of shuffling their elements. 
@@ -22,9 +18,6 @@ PennKey: _______
 =========================
 =: Your Implementation :=
 =========================
-
-- Provide an overview of each of the classes in your code, and what their
-  function is in the overall game.
 
 	CardPanel - contains the card buttons as well as their functionalities
 	
